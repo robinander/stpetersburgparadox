@@ -1,4 +1,4 @@
 #some function
-a = 4
+a = 6
 b = 5
 a+b
